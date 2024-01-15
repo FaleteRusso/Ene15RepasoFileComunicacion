@@ -21,6 +21,7 @@ public class ServidorEj1 {
                 respuesta= mE.readLine();
                 System.out.println(respuesta);
                 System.out.println(respuesta.substring(10).strip());
+                cantidad=Integer.parseInt(respuesta.substring(10).strip());
 
 
                 mS = new PrintWriter(s1.getOutputStream(),true);
