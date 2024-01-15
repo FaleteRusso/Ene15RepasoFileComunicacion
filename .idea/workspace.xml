@@ -4,11 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c58886b2-386a-40fc-ba4a-5d7e7e6ec070" name="Changes" comment="" />
+    <list default="true" id="c58886b2-386a-40fc-ba4a-5d7e7e6ec070" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/modelo/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/modelo/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/ClienteEj1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/ClienteEj1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/EscribirObjetoBasico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/EscribirObjetoBasico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/LeerFicheros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/LeerFicheros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/LeerObjeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/LeerObjeto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/PruebaFicheroCaracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/PruebaFicheroCaracteres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/ServidorEj1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corenetworks/presentacion/ServidorEj1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -23,9 +44,86 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.LeerObjeto">
+    <configuration name="EscribirObjetoBasico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.EscribirObjetoBasico" />
+      <module name="Ene15RepasoFileComunicacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeerFicheros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.LeerFicheros" />
+      <module name="Ene15RepasoFileComunicacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeerObjeto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.LeerObjeto" />
+      <module name="Ene15RepasoFileComunicacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.Main" />
+      <module name="Ene15RepasoFileComunicacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaFicheroCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.PruebaFicheroCaracteres" />
+      <module name="Ene15RepasoFileComunicacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeerObjeto" />
+        <item itemvalue="Application.EscribirObjetoBasico" />
+        <item itemvalue="Application.LeerFicheros" />
+        <item itemvalue="Application.PruebaFicheroCaracteres" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
